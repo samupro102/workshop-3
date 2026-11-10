@@ -163,7 +163,7 @@ dim_date ─────┘
 
 `sql/kpis.sql` crea la vista `vw_predictions_detail`, que une el hecho con sus dimensiones y es la fuente del dashboard.
 
-![Dashboard completo](Workshop 3 - Esquema de base de datos (happiness_db).png))
+![Dashboard completo](dashboards/Workshop3-Esquemadebasededatos(happiness_db).png)
 
 ## 7. Dashboard
 
