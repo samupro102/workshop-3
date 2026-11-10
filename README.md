@@ -162,6 +162,9 @@ dim_date ─────┘
 ```
 
 `sql/kpis.sql` crea la vista `vw_predictions_detail`, que une el hecho con sus dimensiones y es la fuente del dashboard.
+
+![Dashboard completo](dashboards/Workshop 3 - Esquema de base de datos (happiness_db))
+
 ## 7. Dashboard
 
 Archivo: `dashboards/happiness_dashboard.pbix` (Power BI Desktop). El dashboard **consulta PostgreSQL directamente** (base `happiness_db`, vista `vw_predictions_detail`), no archivos CSV.
